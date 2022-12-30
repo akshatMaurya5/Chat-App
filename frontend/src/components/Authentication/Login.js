@@ -135,7 +135,7 @@ const Login = () => {
         }}
       >
         <a
-          href="https://www.loom.com/share/339d7abfe1924bbd8cb53c0cc3fac551"
+          href="https://www.veed.io/view/fa283566-38e1-4d3d-8e3b-4a92954ee0e6?panel=share"
           target="_blank"
           rel="noreferrer"
           aria-label="Demo-Video"
